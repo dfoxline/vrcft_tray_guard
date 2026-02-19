@@ -4,7 +4,7 @@
 [![Python: 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![AI: Gemini-Assistant](https://img.shields.io/badge/Collaborator-AI-green.svg)](#-开发背景)
 
-**VRCFT-Guardian** 是一个专为解决 [VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking) 进程残留 bug 而设计的轻量级工具。它能自动监控主程序的生命周期，并在其关闭后强制清理“赖着不走”的模块进程，还你一个干净的 Steam/VRChat 运行状态。
+**vrcft_tray_guard** 是一个专为解决 [VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking) 进程残留 bug 而设计的轻量级工具。它能自动监控主程序的生命周期，并在其关闭后强制清理“赖着不走”的模块进程，还你一个干净的 Steam/VRChat 运行状态。
 
 ---
 
