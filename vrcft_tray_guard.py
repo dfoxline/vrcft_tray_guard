@@ -8,7 +8,7 @@ from PySide6.QtWidgets import (QApplication, QMainWindow, QPlainTextEdit,
 from PySide6.QtCore import QThread, Signal, Qt
 from PySide6.QtGui import QIcon, QAction, QFont
 
-# 配置
+# 配置 
 MAIN_EXE = "VRCFaceTracking.exe"
 MODULE_EXE = "VRCFaceTracking.ModuleProcess.exe"
 APP_NAME = "VRCFT_Guard"
